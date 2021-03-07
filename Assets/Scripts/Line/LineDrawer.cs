@@ -6,7 +6,7 @@ public class LineDrawer : MonoBehaviour
 {
     [SerializeField] private Line _template;
 
-    private Vector3 _offset = new Vector3(0, 0, 1);
+    private Vector3 _offset = new Vector3(0, -1, 0);
     private Line _currentLine;    
 
     private void Update()

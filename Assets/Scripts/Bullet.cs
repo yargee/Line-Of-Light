@@ -6,39 +6,36 @@ public class Bullet : MonoBehaviour
 {
     [SerializeField] private float _speed;
     [SerializeField] private int _damage;
-    [SerializeField] private Enemy _target;
 
-    void FixedUpdate()
+    private Vector3 _target;
+
+    private void Update()
     {
         if (_target == null)
         {
+            Destroy(gameObject);
             return;
         }
-        else
-        {
-            transform.position = Vector3.MoveTowards(transform.position, _target.Transform.position, _speed);
-        }
+
+        Fly();
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter(Collider collision)
     {
-        if (collision.TryGetComponent(out ITargetable target))
+        if (collision.TryGetComponent(out ZombieWave wave))
         {
-            _target.Lost -= OnTargetLost;
-            target.BeAttacked(_damage);
-            target = null;
+            wave.SpreadDamage(_damage);
             Destroy(gameObject);
         }
     }
 
-    public void Init(Enemy target)
+    public void Init(Vector3 target)
     {
         _target = target;
-        _target.Lost += OnTargetLost;
     }
 
-    public void OnTargetLost(Enemy enemy)
+    public void Fly()
     {
-        Destroy(gameObject);
+        transform.position = Vector3.MoveTowards(transform.position, _target, _speed);
     }
 }

@@ -6,8 +6,9 @@ public class SoldierSpawner : MonoBehaviour
 {
     [SerializeField] private Soldier _template;
     [SerializeField] private float _spawnDistance;
+    [SerializeField] private ZombieWave _target;
 
-    private WaitForSeconds _spawnDelay = new WaitForSeconds(1.5f);
+    private WaitForSeconds _spawnDelay = new WaitForSeconds(1);
     private List<Soldier> _soldiers = new List<Soldier>();
     private RaycastHit _hit;
     private Ray _ray;
@@ -49,6 +50,7 @@ public class SoldierSpawner : MonoBehaviour
     private IEnumerator SpawnSoldier(Vector3 spawnPoint)
     {
         var newSoldier = Instantiate(_template, spawnPoint, Quaternion.Euler(new Vector3(0, 90, 0)));
+        newSoldier.Init(_target);
         _soldiers.Add(newSoldier);
         yield return _spawnDelay;
         newSoldier.gameObject.SetActive(true);

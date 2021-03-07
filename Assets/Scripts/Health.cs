@@ -6,7 +6,8 @@ using UnityEngine.Events;
 public class Health : MonoBehaviour
 {
     [SerializeField] private int _healthPoints;
-
+    
+    public event UnityAction StartDying;
     public int HealthPoints => _healthPoints;
 
     public void TakeDamage(int value)
@@ -14,12 +15,7 @@ public class Health : MonoBehaviour
         _healthPoints -= value;
         if (HealthPoints <= 0)
         {
-            Die();
+            StartDying?.Invoke();
         }
-    }
-
-    private void Die()
-    {
-        Destroy(gameObject);
     }
 }
