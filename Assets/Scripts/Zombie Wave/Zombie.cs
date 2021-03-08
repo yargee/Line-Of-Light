@@ -1,79 +1,46 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 using UnityEngine.Events;
 
 public class Zombie : MonoBehaviour
 {
-    private const string Run = "Run";
-    private const string Attack = "Attack";
-
-    [SerializeField] private Health _health;
     [SerializeField] private Animator _animator;
-    [SerializeField] private ZombieMovement _mover;
-    [SerializeField] private ZombieAttack _attacker;
-    [SerializeField] private BoxCollider _collider;
-    [SerializeField] private Rigidbody _rigidbody;
+    [SerializeField] private GameObject[] _deathEffect = new GameObject[6];
+    [SerializeField] private GameObject _bloodPool;
 
     private readonly string[] _death = { "Death_1", "Death_2", "Death_3", "Death_4" };
+    private readonly string _attack = "Attack";
+    private readonly string _move = "Move";
+    private readonly string _run = "Run";
+    private readonly string _idle = "Idle";
 
-    public event UnityAction<Zombie> Died;
-
-    public Health Health => _health;
-    public Animator Animator => _animator;
-
-    private void OnEnable()
+    public void Dying()
     {
-        _health.StartDying += OnStartDying;
-    }
-
-    private void FixedUpdate()
-    {
-        _mover.Move();
-    }
-
-    private void OnCollisionEnter(Collision collision)
-    {
-        if (collision.gameObject.TryGetComponent(out Soldier soldier) || collision.gameObject.TryGetComponent(out Obstacle obstacle))
-        {
-            _mover.Stop();
-            _animator.SetBool(Attack, true);
-        }
-    }
-
-    private void OnCollisionStay(Collision collision)
-    {
-        if (collision.gameObject.TryGetComponent(out Soldier target))
-        {
-            StartCoroutine(target.Dying());
-            StartCoroutine(_attacker.Delay());
-        }
-
-        if (collision.gameObject.TryGetComponent(out Obstacle obstacle) && _attacker.AttackAvailable)
-        {
-            obstacle.TryBreak();
-            StartCoroutine(_attacker.Delay());
-        }
-
-    }
-
-    private void OnCollisionExit(Collision collision)
-    {
-        _mover.Move();
-        _animator.SetBool(Attack, false);
-    }
-
-    public void Enrage()
-    {
-        _animator.SetBool(Run, true);
-        _mover.Boost();
-    }
-
-    private void OnStartDying()
-    {
-        _mover.Stop();
-        _health.StartDying -= OnStartDying;
+        Instantiate(_deathEffect[Random.Range(0,6)], new Vector3(transform.position.x, transform.position.y + 1.5f, transform.position.z), Quaternion.Euler(90,0,0));
+        Instantiate(_bloodPool, new Vector3(transform.position.x, transform.position.y - 0.3f, transform.position.z), Quaternion.Euler(90, 0, 0));
         _animator.SetBool(_death[Random.Range(0, 4)], true);
-        _rigidbody.isKinematic = true;
-        _collider.enabled = false;
-        Died?.Invoke(this);
     }
+
+    public IEnumerator Kill()
+    {
+        _animator.SetBool(_attack, true);
+        yield return new WaitForSeconds(0.5f);
+        _animator.SetBool(_attack, false);
+    }
+
+    public void Move()
+    {
+        _animator.SetBool(_move, true);
+    }
+
+    public void Run()
+    {
+        _animator.SetBool(_run, true);
+    }
+
+    public void Stop()
+    {
+        _animator.SetBool(_idle, true);
+    }    
 }

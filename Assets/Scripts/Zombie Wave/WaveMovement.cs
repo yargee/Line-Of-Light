@@ -1,12 +1,12 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
 
-public class ZombieMovement : MonoBehaviour
+public class WaveMovement : MonoBehaviour
 {
     [SerializeField] private float _speed;
 
-    private float _enragedSpeed = 10;
-    private Vector3 _direction = new Vector3(0, 0, 1);
+    private float _enragedSpeed = 7;
+    private Vector3 _direction = new Vector3(-1, 0, 0);   
 
     public void Move()
     {

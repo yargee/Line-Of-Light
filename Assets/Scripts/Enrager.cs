@@ -2,6 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnrageTrigger : MonoBehaviour
-{    
+public class Enrager : MonoBehaviour
+{   
 }
