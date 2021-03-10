@@ -4,10 +4,9 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
-    [SerializeField] private float _speed;    
+    [SerializeField] private float _speed;
 
-    private ZombieWave _target;
-    private int _shotAccuracy;
+    private Vector3 _target;
 
     private void Update()
     {
@@ -20,14 +19,14 @@ public class Bullet : MonoBehaviour
         Fly();
     }
 
-    public void Init(ZombieWave target)
+    public void Init(Vector3 target)
     {
-        _target = target;        
+        _target = target;
     }
 
     private void Fly()
     {
-        transform.position = Vector3.MoveTowards(transform.position, _target.transform.position + new Vector3(0, 0, Random.Range(-10, 11)), _speed);
+        transform.position = Vector3.MoveTowards(transform.position, _target, _speed);
     }
 
     private void OnTriggerEnter(Collider collision)

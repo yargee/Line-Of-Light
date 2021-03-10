@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -7,6 +8,7 @@ public class SoldierSpawner : MonoBehaviour
     [SerializeField] private Soldier _template;
     [SerializeField] private float _spawnDistance;
     [SerializeField] private ZombieWave _target;
+    [SerializeField] private GameObject _soldierDiedEffect;
 
     private WaitForSeconds _spawnDelay = new WaitForSeconds(1);
     private List<Soldier> _soldiers = new List<Soldier>();
@@ -50,10 +52,16 @@ public class SoldierSpawner : MonoBehaviour
     private IEnumerator SpawnSoldier(Vector3 spawnPoint)
     {
         var newSoldier = Instantiate(_template, spawnPoint, Quaternion.Euler(new Vector3(0, 90, 0)));
+        newSoldier.Died += OnDied;
         newSoldier.Init(_target);
         _soldiers.Add(newSoldier);
         yield return _spawnDelay;
         newSoldier.gameObject.SetActive(true);
         yield break;
+    }
+
+    private void OnDied()
+    {
+        Instantiate(_soldierDiedEffect, transform.position, Quaternion.Euler(new Vector3(-35, 90, 0)));
     }
 }
