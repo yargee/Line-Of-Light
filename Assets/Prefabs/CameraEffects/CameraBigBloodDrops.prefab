@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 998037964680554198}
   - component: {fileID: 998037964680554196}
   - component: {fileID: 998037964680554199}
-  - component: {fileID: 998037964680554197}
   m_Layer: 11
   m_Name: CameraBigBloodDrops
   m_TagString: Untagged
@@ -42,7 +41,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 998037964680554201}
   serializedVersion: 6
-  lengthInSec: 0.6
+  lengthInSec: 0.25
   simulationSpeed: 1
   stopAction: 2
   cullingMode: 0
@@ -285,9 +284,9 @@ ParticleSystem:
         m_NumAlphaKeys: 2
     startSize:
       serializedVersion: 2
-      minMaxState: 1
-      scalar: 30
-      minScalar: 10
+      minMaxState: 3
+      scalar: 25
+      minScalar: 15
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -338,7 +337,7 @@ ParticleSystem:
         m_RotationOrder: 4
     startSizeY:
       serializedVersion: 2
-      minMaxState: 1
+      minMaxState: 3
       scalar: 1
       minScalar: 1
       maxCurve:
@@ -391,7 +390,7 @@ ParticleSystem:
         m_RotationOrder: 4
     startSizeZ:
       serializedVersion: 2
-      minMaxState: 1
+      minMaxState: 3
       scalar: 1
       minScalar: 1
       maxCurve:
@@ -551,7 +550,7 @@ ParticleSystem:
     startRotation:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 0
+      scalar: 6.283185
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -669,7 +668,7 @@ ParticleSystem:
     donutRadius: 0.2
     m_Position: {x: 0, y: 0, z: 0}
     m_Rotation: {x: 0, y: 180, z: 0}
-    m_Scale: {x: 20, y: 40, z: 1}
+    m_Scale: {x: 40, y: 60, z: 1}
     placementMode: 0
     m_MeshMaterialIndex: 0
     m_MeshNormalOffset: 0
@@ -867,7 +866,7 @@ ParticleSystem:
     rateOverTime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 2
+      scalar: 8
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -1475,9 +1474,9 @@ ParticleSystem:
         m_RotationOrder: 4
     speedRange: {x: 0, y: 1}
     tilesX: 1
-    tilesY: 15
+    tilesY: 18
     animationType: 1
-    rowIndex: 1
+    rowIndex: 0
     cycles: 0.0001
     uvChannelMask: -1
     rowMode: 1
@@ -4746,7 +4745,7 @@ ParticleSystemRenderer:
   m_RenderAlignment: 0
   m_Pivot: {x: 0, y: 0, z: 0}
   m_Flip: {x: 0, y: 0, z: 0}
-  m_UseCustomVertexStreams: 1
+  m_UseCustomVertexStreams: 0
   m_EnableGPUInstancing: 1
   m_ApplyActiveColorSpace: 1
   m_AllowRoll: 0
@@ -4756,19 +4755,6 @@ ParticleSystemRenderer:
   m_Mesh2: {fileID: 0}
   m_Mesh3: {fileID: 0}
   m_MaskInteraction: 0
---- !u!114 &998037964680554197
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 998037964680554201}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6e5731955cc08d24d9cf90e5887c9261, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _particle: {fileID: 998037964680554196}
 --- !u!1 &998037965181612746
 GameObject:
   m_ObjectHideFlags: 0
@@ -4780,14 +4766,13 @@ GameObject:
   - component: {fileID: 998037965181612747}
   - component: {fileID: 998037965181612743}
   - component: {fileID: 998037965181612742}
-  - component: {fileID: 998037965181612745}
   m_Layer: 11
   m_Name: CameraSmallBloodDrops
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &998037965181612747
 Transform:
   m_ObjectHideFlags: 0
@@ -4885,7 +4870,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 8
+      scalar: 10
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -5055,7 +5040,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 3
       scalar: 3
-      minScalar: 1
+      minScalar: 0.5
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -5437,7 +5422,7 @@ ParticleSystem:
     donutRadius: 0.2
     m_Position: {x: 0, y: 0, z: 0}
     m_Rotation: {x: 0, y: 180, z: 0}
-    m_Scale: {x: 30, y: 50, z: 1}
+    m_Scale: {x: 40, y: 60, z: 1}
     placementMode: 0
     m_MeshMaterialIndex: 0
     m_MeshNormalOffset: 0
@@ -5635,8 +5620,8 @@ ParticleSystem:
     rateOverTime:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 70
-      minScalar: 30
+      scalar: 50
+      minScalar: 20
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -6243,12 +6228,12 @@ ParticleSystem:
         m_RotationOrder: 4
     speedRange: {x: 0, y: 1}
     tilesX: 1
-    tilesY: 15
+    tilesY: 18
     animationType: 1
     rowIndex: 0
     cycles: 0.0001
     uvChannelMask: -1
-    rowMode: 0
+    rowMode: 1
     sprites:
     - sprite: {fileID: 0}
     flipU: 0
@@ -9524,16 +9509,3 @@ ParticleSystemRenderer:
   m_Mesh2: {fileID: 0}
   m_Mesh3: {fileID: 0}
   m_MaskInteraction: 0
---- !u!114 &998037965181612745
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 998037965181612746}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6e5731955cc08d24d9cf90e5887c9261, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _particle: {fileID: 998037965181612743}

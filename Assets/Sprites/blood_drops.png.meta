@@ -1,7 +1,292 @@
 fileFormatVersion: 2
 guid: 87056886db01efc458dc6c6754934ab8
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3185640727095501073
+    second: blood_drops_0
+  - first:
+      213: -5264747000469826703
+    second: blood_drops_1
+  - first:
+      213: 6722339831850883887
+    second: blood_drops_2
+  - first:
+      213: 3235493911814431139
+    second: blood_drops_3
+  - first:
+      213: -8406297486938789473
+    second: blood_drops_4
+  - first:
+      213: 5445884715865125947
+    second: blood_drops_5
+  - first:
+      213: 7614683704602077087
+    second: blood_drops_6
+  - first:
+      213: -6634295061916910108
+    second: blood_drops_7
+  - first:
+      213: -1828464237916015388
+    second: blood_drops_8
+  - first:
+      213: -1840735599791885227
+    second: blood_drops_9
+  - first:
+      213: 138095970083432475
+    second: blood_drops_10
+  - first:
+      213: 7931358683296604543
+    second: blood_drops_11
+  - first:
+      213: -6645645336786694066
+    second: blood_drops_12
+  - first:
+      213: -95598696026787957
+    second: blood_drops_13
+  - first:
+      213: 6752446333278031139
+    second: blood_drops_14
+  - first:
+      213: 477633483441668252
+    second: blood_drops_15
+  - first:
+      213: 2525114180592943560
+    second: blood_drops_16
+  - first:
+      213: 9205280145248447347
+    second: blood_drops_17
+  - first:
+      213: 1067371021571038634
+    second: blood_drops_18
+  - first:
+      213: 8903821623702179334
+    second: blood_drops_19
+  - first:
+      213: 5998784879424939244
+    second: blood_drops_20
+  - first:
+      213: 8817145367288371064
+    second: blood_drops_21
+  - first:
+      213: -4167556370618913288
+    second: blood_drops_22
+  - first:
+      213: -1523188377993947297
+    second: blood_drops_23
+  - first:
+      213: 4100619343000852227
+    second: blood_drops_24
+  - first:
+      213: 8890096517541859687
+    second: blood_drops_25
+  - first:
+      213: -23676652973853620
+    second: blood_drops_26
+  - first:
+      213: -2109920563355666225
+    second: blood_drops_27
+  - first:
+      213: 4384199521024454865
+    second: blood_drops_28
+  - first:
+      213: -8962661384921522312
+    second: blood_drops_29
+  - first:
+      213: -9202040693578123929
+    second: blood_drops_30
+  - first:
+      213: 919120137970360136
+    second: blood_drops_31
+  - first:
+      213: -6795445076016467745
+    second: blood_drops_32
+  - first:
+      213: -1376472507210982020
+    second: blood_drops_33
+  - first:
+      213: -7271491081605869135
+    second: blood_drops_34
+  - first:
+      213: 2483408959930545353
+    second: blood_drops_35
+  - first:
+      213: 6522009372704210522
+    second: blood_drops_36
+  - first:
+      213: 6326744919782965038
+    second: blood_drops_37
+  - first:
+      213: -939829235415069163
+    second: blood_drops_38
+  - first:
+      213: -8579585414417168784
+    second: blood_drops_39
+  - first:
+      213: 1567659717937764533
+    second: blood_drops_40
+  - first:
+      213: 2395637467861783861
+    second: blood_drops_41
+  - first:
+      213: 7434475338133688994
+    second: blood_drops_42
+  - first:
+      213: 2774599834789586081
+    second: blood_drops_43
+  - first:
+      213: 5416110573508994177
+    second: blood_drops_44
+  - first:
+      213: -5673646173663533712
+    second: blood_drops_45
+  - first:
+      213: 489358842290404377
+    second: blood_drops_46
+  - first:
+      213: -9217649844965015950
+    second: blood_drops_47
+  - first:
+      213: 3348266862579246155
+    second: blood_drops_48
+  - first:
+      213: 8450949658511646344
+    second: blood_drops_49
+  - first:
+      213: -6126774861500752324
+    second: blood_drops_50
+  - first:
+      213: 2867947745229094814
+    second: blood_drops_51
+  - first:
+      213: -422418477524024120
+    second: blood_drops_52
+  - first:
+      213: 7472322573848530598
+    second: blood_drops_53
+  - first:
+      213: 4886153176642088260
+    second: blood_drops_54
+  - first:
+      213: 6821279555432431540
+    second: blood_drops_55
+  - first:
+      213: 4082630744453871015
+    second: blood_drops_56
+  - first:
+      213: -955559194765446172
+    second: blood_drops_57
+  - first:
+      213: 460929171953355901
+    second: blood_drops_58
+  - first:
+      213: -2891750509469750582
+    second: blood_drops_59
+  - first:
+      213: 8983144719967398619
+    second: blood_drops_60
+  - first:
+      213: -2815821690784070523
+    second: blood_drops_61
+  - first:
+      213: 3359534258633321653
+    second: blood_drops_62
+  - first:
+      213: -4307356041089457176
+    second: blood_drops_63
+  - first:
+      213: -1536728960067235211
+    second: blood_drops_64
+  - first:
+      213: -754219010211616975
+    second: blood_drops_65
+  - first:
+      213: -2354757261373591254
+    second: blood_drops_66
+  - first:
+      213: -8492177821609427495
+    second: blood_drops_67
+  - first:
+      213: -2080708477342137577
+    second: blood_drops_68
+  - first:
+      213: -7069140546492003556
+    second: blood_drops_69
+  - first:
+      213: 4490023361194828893
+    second: blood_drops_70
+  - first:
+      213: 6089362953111984676
+    second: blood_drops_71
+  - first:
+      213: -1949850202377619654
+    second: blood_drops_72
+  - first:
+      213: 4411547267049708046
+    second: blood_drops_73
+  - first:
+      213: -4283574196571917230
+    second: blood_drops_74
+  - first:
+      213: -2290588974672274142
+    second: blood_drops_75
+  - first:
+      213: 5975598367413748378
+    second: blood_drops_76
+  - first:
+      213: -1551837663368253849
+    second: blood_drops_77
+  - first:
+      213: -1708303438898387300
+    second: blood_drops_78
+  - first:
+      213: -2336015346512103160
+    second: blood_drops_79
+  - first:
+      213: -3533980214090297410
+    second: blood_drops_80
+  - first:
+      213: 2657645649972581137
+    second: blood_drops_81
+  - first:
+      213: 8137352124509097594
+    second: blood_drops_82
+  - first:
+      213: -9122488139488895075
+    second: blood_drops_83
+  - first:
+      213: 4863610598843268884
+    second: blood_drops_84
+  - first:
+      213: -6513885425508617172
+    second: blood_drops_85
+  - first:
+      213: 7128869136253537359
+    second: blood_drops_86
+  - first:
+      213: 1310656052839160461
+    second: blood_drops_87
+  - first:
+      213: -1951351004794243398
+    second: blood_drops_88
+  - first:
+      213: 8993295396812847215
+    second: blood_drops_89
+  - first:
+      213: 5365192018602823788
+    second: blood_drops_90
+  - first:
+      213: -9032719319440862913
+    second: blood_drops_91
+  - first:
+      213: -1287153365126786972
+    second: blood_drops_92
+  - first:
+      213: 3708763824744712697
+    second: blood_drops_93
+  - first:
+      213: 2992726730150968818
+    second: blood_drops_94
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -97,7 +382,2002 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: blood_drops_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2477
+        width: 107
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee947f03a45ac3d0800000000000000
+      internalID: -3185640727095501073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2592
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17351b43f7cdfe6b0800000000000000
+      internalID: -5264747000469826703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2542
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b5ee8e57c8a4d50800000000000000
+      internalID: 6722339831850883887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2522
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a163a60298c6ec20800000000000000
+      internalID: 3235493911814431139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2367
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9921ce59f4d65b80800000000000000
+      internalID: -8406297486938789473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2338
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34bed8ab4ba39b40800000000000000
+      internalID: 5445884715865125947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2265
+        width: 123
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9723c92c7acca960800000000000000
+      internalID: 7614683704602077087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2328
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed705b8acf3ee3a0800000000000000
+      internalID: -6634295061916910108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2314
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4b286967dff96e0800000000000000
+      internalID: -1828464237916015388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2314
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5543df089b46476e0800000000000000
+      internalID: -1840735599791885227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2307
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b186cb99d8d9ae100800000000000000
+      internalID: 138095970083432475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2056
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71aa1843b8d11e60800000000000000
+      internalID: 7931358683296604543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2107
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40199db6cce5c3a0800000000000000
+      internalID: -6645645336786694066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_13
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2086
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f25521e7d5caef0800000000000000
+      internalID: -95598696026787957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2074
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d0de30a2285bd50800000000000000
+      internalID: 6752446333278031139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1989
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c908f516f15e0a600800000000000000
+      internalID: 477633483441668252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1993
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c14b87f7f10b0320800000000000000
+      internalID: 2525114180592943560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1963
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b6d7b3589bfbf70800000000000000
+      internalID: 9205280145248447347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1860
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad9948f94010de00800000000000000
+      internalID: 1067371021571038634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1948
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ec530a79ab09b70800000000000000
+      internalID: 8903821623702179334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1929
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4ab1e9017ff3350800000000000000
+      internalID: 5998784879424939244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1918
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877543e0ffacc5a70800000000000000
+      internalID: 8817145367288371064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1907
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fde7d3cf8dd926c0800000000000000
+      internalID: -4167556370618913288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1878
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57daab8d3c8cdae0800000000000000
+      internalID: -1523188377993947297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_24
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1778
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30759a2019358e830800000000000000
+      internalID: 4100619343000852227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1756
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76115035ea7ff5b70800000000000000
+      internalID: 8890096517541859687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_26
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1686
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44f506a532ebaff0800000000000000
+      internalID: -23676652973853620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1697
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8b4ec2d6e08b2e0800000000000000
+      internalID: -2109920563355666225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_28
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1516
+        width: 106
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0b9136c3ec7dc30800000000000000
+      internalID: 4384199521024454865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1600
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f54a5e4fa3e9380800000000000000
+      internalID: -8962661384921522312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_30
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1595
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76536926eb8cb4080800000000000000
+      internalID: -9202040693578123929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_31
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1572
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f91a155ee51cc00800000000000000
+      internalID: 919120137970360136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1515
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd07c5905bab1b1a0800000000000000
+      internalID: -6795445076016467745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1325
+        width: 119
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d199c2c89c5ece0800000000000000
+      internalID: -1376472507210982020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_34
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1434
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b116752369761b90800000000000000
+      internalID: -7271491081605869135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_35
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1265
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4bea89a47d67220800000000000000
+      internalID: 2483408959930545353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_36
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1266
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e7dc928f4d28a50800000000000000
+      internalID: 6522009372704210522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_37
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1131
+        width: 137
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fbb28ebfc1dc750800000000000000
+      internalID: 6326744919782965038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1233
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ece813a4e05f2f0800000000000000
+      internalID: -939829235415069163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_39
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1233
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076ca8da5803fe880800000000000000
+      internalID: -8579585414417168784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_40
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1208
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b89e58253271c510800000000000000
+      internalID: 1567659717937764533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_41
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1213
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535948a95930f3120800000000000000
+      internalID: 2395637467861783861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_42
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1211
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a25cd43eef8c2760800000000000000
+      internalID: 7434475338133688994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_43
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1188
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4ad7a69db518620800000000000000
+      internalID: 2774599834789586081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_44
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1193
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184ad3eeed3e92b40800000000000000
+      internalID: 5416110573508994177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_45
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1184
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075e7858dd82341b0800000000000000
+      internalID: -5673646173663533712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c7a6a364d8ac600800000000000000
+      internalID: 489358842290404377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_47
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1152
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27efcee9d44541080800000000000000
+      internalID: -9217649844965015950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_48
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1152
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b446f3db8fe677e20800000000000000
+      internalID: 3348266862579246155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_49
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1133
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e9b4a70fdc74570800000000000000
+      internalID: 8450949658511646344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_50
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1048
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e547979b259faa0800000000000000
+      internalID: -6126774861500752324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_51
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 967
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f33cc774ffcc720800000000000000
+      internalID: 2867947745229094814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_52
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1004
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c48e9cf1a4432af0800000000000000
+      internalID: -422418477524024120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_53
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 997
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aecf557ac503b760800000000000000
+      internalID: 7472322573848530598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 973
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44de5eb1d6a1fc340800000000000000
+      internalID: 4886153176642088260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_55
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 919
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf3f2f6d9d0aae50800000000000000
+      internalID: 6821279555432431540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_56
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 822
+        width: 153
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5f248080b68a830800000000000000
+      internalID: 4082630744453871015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_57
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 919
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3b522a9fb2db2f0800000000000000
+      internalID: -955559194765446172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_58
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 920
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c05e8c3ac856600800000000000000
+      internalID: 460929171953355901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_59
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 908
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca20089b307ed7d0800000000000000
+      internalID: -2891750509469750582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_60
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 865
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda259f278a8aac70800000000000000
+      internalID: 8983144719967398619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_61
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 845
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584c9f157113ce8d0800000000000000
+      internalID: -2815821690784070523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 836
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc2890db967f9e20800000000000000
+      internalID: 3359534258633321653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_63
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 669
+        width: 150
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3eab180823934c0800000000000000
+      internalID: -4307356041089457176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_64
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 696
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572132b17217caae0800000000000000
+      internalID: -1536728960067235211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_65
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 693
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1376d756ec97885f0800000000000000
+      internalID: -754219010211616975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_66
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 690
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a213e8f2fb8325fd0800000000000000
+      internalID: -2354757261373591254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_67
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 693
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddf485c349b52a80800000000000000
+      internalID: -8492177821609427495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_68
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 690
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713c0e6f9a6df13e0800000000000000
+      internalID: -2080708477342137577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_69
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 695
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b880b702e55ed90800000000000000
+      internalID: -7069140546492003556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_70
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 516
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5429353574cf4e30800000000000000
+      internalID: 4490023361194828893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_71
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 577
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ad9a0d753c18450800000000000000
+      internalID: 6089362953111984676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_72
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 553
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37fe0a529db0f4e0800000000000000
+      internalID: -1949850202377619654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_73
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 531
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ad752bdd6f83d30800000000000000
+      internalID: 4411547267049708046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_74
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 533
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2543d4ca6ffad84c0800000000000000
+      internalID: -4283574196571917230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_75
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 534
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d9b3ea6713630e0800000000000000
+      internalID: -2290588974672274142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_76
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 534
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92c91a1e079de250800000000000000
+      internalID: 5975598367413748378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_77
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 445
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76eecddfdd3c67ae0800000000000000
+      internalID: -1551837663368253849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_78
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 320
+        width: 143
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9622e3c213ea48e0800000000000000
+      internalID: -1708303438898387300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_79
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 355
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809f8494b6ec49fd0800000000000000
+      internalID: -2336015346512103160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_80
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 345
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf83e718b7c4fec0800000000000000
+      internalID: -3533980214090297410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_81
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 342
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1135a7943aad1e420800000000000000
+      internalID: 2657645649972581137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_82
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 281
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e82a9c4aeade070800000000000000
+      internalID: 8137352124509097594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_83
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 267
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fdc02ce59666180800000000000000
+      internalID: -9122488139488895075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_84
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 239
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fb0e532140f7340800000000000000
+      internalID: 4863610598843268884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_85
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 158
+        width: 135
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24f6f0b7b70a95a0800000000000000
+      internalID: -6513885425508617172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_86
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 239
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c43a485b4dee260800000000000000
+      internalID: 7128869136253537359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_87
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 214
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a91346cb2603210800000000000000
+      internalID: 1310656052839160461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_88
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 215
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6332f89986be4e0800000000000000
+      internalID: -1951351004794243398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_89
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 191
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f687f2fc38a9ecc70800000000000000
+      internalID: 8993295396812847215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_90
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 181
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60159407bdf47a40800000000000000
+      internalID: 5365192018602823788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_91
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 105
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f315be8e2a555a280800000000000000
+      internalID: -9032719319440862913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_92
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 6
+        width: 116
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4605b2485dc132ee0800000000000000
+      internalID: -1287153365126786972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_93
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f94ab97c0d287330800000000000000
+      internalID: 3708763824744712697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_drops_94
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdf67cda1d488920800000000000000
+      internalID: 2992726730150968818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

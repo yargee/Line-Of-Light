@@ -7,6 +7,7 @@ public class Bullet : MonoBehaviour
     [SerializeField] private float _speed;
 
     private Vector3 _target;
+    private bool _hit;
 
     private void Update()
     {
@@ -19,9 +20,10 @@ public class Bullet : MonoBehaviour
         Fly();
     }
 
-    public void Init(Vector3 target)
+    public void Init(Vector3 target, bool hit)
     {
         _target = target;
+        _hit = hit;
     }
 
     private void Fly()
@@ -33,7 +35,10 @@ public class Bullet : MonoBehaviour
     {
         if (collision.TryGetComponent(out ZombieWave wave))
         {
-            wave.SpreadDamage();
+            if (_hit)
+            {
+                wave.SpreadDamage();
+            }            
             Destroy(gameObject);
         }
     }

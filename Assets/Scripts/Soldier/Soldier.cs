@@ -11,21 +11,22 @@ public class Soldier : MonoBehaviour
     [SerializeField] private Shooting _shooter;
     [SerializeField] private ZombieWave _target;
     [SerializeField] private GameObject _bloodPool;
-    [SerializeField] private GameObject[] _deathEffect = new GameObject[6];    
+    [SerializeField] private GameObject[] _deathEffect = new GameObject[6];
+    [SerializeField] private int _distance;
 
     private readonly string[] Death = { "Death_1", "Death_2", "Death_3", "Death_4", "Death_5" };
     private bool _alive = true;
-
+    
     public event UnityAction Died;
 
     private void OnEnable()
     {
-        Instantiate(_spawnEffectTemplate, transform.position, Quaternion.identity);
+        Instantiate(_spawnEffectTemplate, transform.position, Quaternion.Euler(-90, 0, 0));
     }
 
     private void Update()
     {
-        if (_target == null)
+        if (_target == null || !IsAttackDistance())
         {
             return;
         }
@@ -33,10 +34,16 @@ public class Soldier : MonoBehaviour
         StartCoroutine(_shooter.Shoot(_target));
     }
 
-    public void Init(ZombieWave target)
+    private bool IsAttackDistance()
+    {
+        return Vector3.Distance(transform.position, _target.transform.position) < _distance;
+    }    
+
+    public void Init(ZombieWave target, bool isEnabled)
     {
         _target = target;
-        _shooter.SetFireRate(Random.Range(0.8f, 1.5f));
+        _shooter.SetCharacteristics(Random.Range(1.0f, 2.0f), Random.Range(85, 99));
+        _shooter.ShotSound.enabled = isEnabled;        
     }
 
     public void Dying()
